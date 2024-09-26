@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @ReeshavGhosh200
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning React, game dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> emial: reeshavghosh5@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: The fact is funny
+Hi ! I'm Reeshav_Ghosh200
+
+=========================
+
+Front end WEb Developer
+
+-------------------------
+
+I have been learning coding for 2 years and have some greate experience in CSS and Javascript
+
+* 🌍  I'm based in India
+* ✉️   You can contact me at [reeshavghosh5@gmail.com](mailto:reeshavghosh5@gmail.com)
+* 🧠  I'm currently exploring ReactJS
+* 🤝  I'm open to collaborating on projects that can be interesting now & then
+* ⚡   In love with Javascript & C++ (.ino)
+* ⚡   Fun fact: The fact is funny
+
+<!--### Coding Platforms:
+[W3Schools]
+[] -->
 
 <!---
 ReeshavGhosh200/ReeshavGhosh200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
